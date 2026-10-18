@@ -1,3 +1,3 @@
-# M2 DV6: NPC Spawner++  
+# M2 PR6: NPC Spawner++  
 Play Here:  
 https://samuel5024.github.io/M2-DV6-NPC-Spawner/
