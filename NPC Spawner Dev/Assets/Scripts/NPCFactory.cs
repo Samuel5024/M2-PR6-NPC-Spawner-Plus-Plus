@@ -15,6 +15,15 @@ public class NPCFactory : MonoBehaviour
             case NPCType.Shopowner:
                 INPC shopowner = new Shopowner();
                 return shopowner;
+            case NPCType.Warrior:
+                INPC warrior = new Warrior();
+                return warrior;
+            case NPCType.Wizard:
+                INPC wizard = new Wizard();
+                return wizard;
+            case NPCType.Ron:
+                INPC ron = new Ron();
+                return ron;
         }
         return null;
     }
